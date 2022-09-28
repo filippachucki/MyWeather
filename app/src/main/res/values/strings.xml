@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="welcome_description">In the next step we will ask you for location permissions. We will only use your location for weather purposes as per our Terms&amp;Conditions. If you deny permission, default location will be used.</string>
+</resources>
